@@ -1,0 +1,17 @@
+footer {
+  height: 20vh;
+  align-content: center;
+  background: linear-gradient(0deg, rgb(20, 54, 84) 60%, rgb(40, 124, 198) 92%);
+  color: #fff;
+}
+
+.footer__container {
+  display: flex;
+  justify-content:space-evenly;
+  flex-direction: row;
+}
+
+.footer__col__link {
+  text-decoration: none;
+  color: #fff;
+}

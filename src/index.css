@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Kanit";
+  src:  url("./assets/fonts/kanit/Kanit-Medium.ttf"),
+        url("./assets/fonts/kanit/Kanit-Bold.ttf"),
+        url("./assets/fonts/kanit/Kanit-Light.ttf");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Kanit, sans-serif;
+}
